@@ -1,8 +1,8 @@
 
-To implement the shortcut function according to the given instructions, you can simply extract the initial letters of both input strings and return them. Here's the implementation:
+//To implement the shortcut function according to the given instructions, you can simply extract the initial letters of both input strings and return them. Here's the implementation:
 
-javascript
-Copy code
+//javascript
+//Copy code
 function shortcut(s1, s2) {
   // Extract the initial letters of both strings
   const initial1 = s1.charAt(0);
